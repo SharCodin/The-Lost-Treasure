@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a8a29a7a054a642877ab340a74371d, type: 3}
+  m_Name: Episode 011
+  m_EditorClassIdentifier: 
+  ChapterTitle: Leave the door open...
+  ChapterText: 'The adults came and took the map. Jerry never saw it again.
+
+    
+
+    ENDING:
+    Map lost forever
+
+
+    1 / 2: Main Menu'
+  OptionOneButton: {fileID: 11400000, guid: 5f1152ae417e72c41a99f0b2c0c091a6, type: 2}
+  OptionTwoButton: {fileID: 11400000, guid: 5f1152ae417e72c41a99f0b2c0c091a6, type: 2}
+  ChapterPicture: {fileID: 0}

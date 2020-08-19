@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a8a29a7a054a642877ab340a74371d, type: 3}
+  m_Name: Episode 010
+  m_EditorClassIdentifier: 
+  ChapterTitle: Lock the room...
+  ChapterText: "On careful inspection, Jerry and Jenny notice that the map is actually
+    a map of their garden.\r\n\r\n1. Go outside\r\n2. Wait for night time\r"
+  OptionOneButton: {fileID: 11400000, guid: a96120a37b8260340806a7b40218867b, type: 2}
+  OptionTwoButton: {fileID: 11400000, guid: 8e25bf830a22aa74da3074544ad33218, type: 2}
+  ChapterPicture: {fileID: 0}

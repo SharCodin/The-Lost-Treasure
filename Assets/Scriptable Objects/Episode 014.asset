@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a8a29a7a054a642877ab340a74371d, type: 3}
+  m_Name: Episode 014
+  m_EditorClassIdentifier: 
+  ChapterTitle: the back door...
+  ChapterText: "The siblings move towards the back door. \r\nThey open it only to
+    find their mother taking out the trash. \r\nMother scolds them for being out
+    of bed this late at night and confiscate the map.\r\n\r\nENDING: Grounded\n\n1
+    / 2: Main Menu"
+  OptionOneButton: {fileID: 11400000, guid: 5f1152ae417e72c41a99f0b2c0c091a6, type: 2}
+  OptionTwoButton: {fileID: 11400000, guid: 5f1152ae417e72c41a99f0b2c0c091a6, type: 2}
+  ChapterPicture: {fileID: 0}

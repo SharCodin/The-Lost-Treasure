@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a8a29a7a054a642877ab340a74371d, type: 3}
+  m_Name: Episode 006
+  m_EditorClassIdentifier: 
+  ChapterTitle: Open it...
+  ChapterText: "\"Wow! It is a map\"\r\n\"What did you say, a map!\" astonished by
+    Jerry's words, Jenny came running to take a look.\r\n\"Dummy, this is not a map,
+    it is a treasure map; See the cross!\"\r\n\r\n1. Show everyone\r\n2. Keep it
+    a secret\r"
+  OptionOneButton: {fileID: 11400000, guid: 157899370f3aa8548bd46f1f5e1d79a3, type: 2}
+  OptionTwoButton: {fileID: 11400000, guid: 8fbc46ea3cbd7c243b61639743a632c4, type: 2}
+  ChapterPicture: {fileID: 0}

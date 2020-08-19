@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a8a29a7a054a642877ab340a74371d, type: 3}
+  m_Name: Episode 015
+  m_EditorClassIdentifier: 
+  ChapterTitle: the front door...
+  ChapterText: "The siblings move towards the front door. \r\n\"Meow\"\r\n\nHuh!
+    Piku the cat wants some food.\r\n\r\n1. Feed her\r\n2. Push her\r away"
+  OptionOneButton: {fileID: 11400000, guid: 0eb0bead242973b4b8d100f94064f85e, type: 2}
+  OptionTwoButton: {fileID: 11400000, guid: 073ebbdcb4b00494f9dd231ade409997, type: 2}
+  ChapterPicture: {fileID: 0}
